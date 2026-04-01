@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アイスクリーム日和",
+  "base_artist": "桜井梨穂子(CV:新谷良子)",
+  "createdAt": "2026-04-01T02:29:31.711420Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アイスクリーム日和",
+      "artist": "桜井梨穂子 (新谷良子)",
+      "has_synced": false,
+      "path": "select/pl_01_アイスクリーム日和_桜井梨穂子_(新谷良子).txt"
+    }
+  ]
+}
